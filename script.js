@@ -1,5 +1,5 @@
 let chars, particles, canvas, ctx, w, h, current;
-let duration = 10000;
+let duration = 8000;
 let str = ['Subama', 'Suba', 'Aluth' , 'Awuruddak', 'Wewa', 'from', 'Shanka'];
 
 init();
